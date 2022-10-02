@@ -4,10 +4,6 @@
 }
 
 .principal {
-    padding: 50px;
-    align-items: center;
-    justify-content: center;
-    width: 25%;
     flex-wrap: wrap;
     margin-left: 30%;
     margin-top: 5%;
@@ -20,8 +16,8 @@
 }
 
 .principal .informacoes .logo {
-    justify-content: center;
-    width: 60px;
+    margin-left: 40%;
+    height: 25px;
 }
 
 .principal .button {
@@ -97,8 +93,8 @@ p {
     background-color: #f32f2f;
     text-align: justify;
     font-size: 10px;
-    margin-left: 40px;
-    margin-right: 50px;
+    margin-left: 10px;
+    margin-right: 132px;
 }
 
 @media (max-width:  640px) {
