@@ -1,0 +1,4 @@
+hit-css:
+  css:
+    theme:
+      assets/css/index.css: {}

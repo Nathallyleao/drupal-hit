@@ -1,0 +1,7 @@
+name: "Hit Digital"
+type: theme
+description: "Tema Hit test"
+core_version_requirement: ^8 || ^9
+
+base theme: classy
+
