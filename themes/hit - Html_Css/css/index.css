@@ -32,7 +32,7 @@
 .principal .informacoes .btn-introducao {
     color: white;
     border-radius: 4px;
-    background-color: #f32f2f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f32f2f), to(#d14a4a));
     margin-top: 8px;
     width: 80px;
     height: 25px;
@@ -44,17 +44,16 @@
     color: white;
     border: #f32f2f;
     background-color: transparent;
-    margin-top: 5px;
-    margin-left: 15px;
-    margin-right: 3px;
-    font-size: 6px;
+    margin-top: 6px;
+    font-size: 0.456rem;
     height: 5px;
+    margin-left: 5px;
 }
 
 .principal .informacoes .btn-contato {
     color: white;
     border-radius: 4px;
-    background-color: #f32f2f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f32f2f), to(#d14a4a));
     margin-top: 8px;
     width: 80px;
     height: 25px;
@@ -65,11 +64,10 @@
     color: white;
     border: #f32f2f;
     background-color: transparent;
-    margin-top: 5px;
-    margin-left: 20px;
-    margin-right: 3px;
-    font-size: 6px;
+    margin-top: 6px;
+    font-size: 0.456rem;
     height: 5px;
+    margin-left: 17px;
 }
 
 .titulo-introducao {
@@ -91,13 +89,13 @@ hr {
 .texto {
     color: white;
     flex-direction: column;
-    background-color: #f32f2f;
     margin-top: 2%;
     width: 400px;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f32f2f), to(#d14a4a));
 }
 
 p {
-    background-color: #f32f2f;
+    background-color: transparent;
     text-align: justify;
     font-size: 0.9rem;
     margin-left: 20px;
