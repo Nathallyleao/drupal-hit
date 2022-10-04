@@ -6,5 +6,6 @@ core_version_requirement: ^8 || ^9
 base theme: classy
 
 libraries: 
-  - hit/hit-css
+  - hit/hit-css 
+
 
