@@ -25,6 +25,12 @@
     width: 60px;
 }
 
+a {
+    text-decoration:none;
+    background: transparent;
+    color:transparent;
+}
+
 .principal .button {
     margin-top: 10px;
     justify-content: space-between;
@@ -85,14 +91,6 @@ hr {
     box-shadow: 1px 1px 3px 1px #756c6c;
     margin-left: 132px;
 }
-
-/* .formularios {
-    margin-left: 100px;
-} */
-
-/* .pag-contato {
-    display: block;
-} */
 
 .pag-contato .titulo-contato {
     justify-content: center;

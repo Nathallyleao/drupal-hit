@@ -23,6 +23,12 @@
     width: 60px;
 }
 
+a {
+    text-decoration:none;
+    background: transparent;
+    color:transparent;
+}
+
 .principal .button {
     margin-top: 10px;
     justify-content: space-between;
